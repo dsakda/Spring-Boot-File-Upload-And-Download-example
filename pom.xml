@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>SpringBootFileUploadDownloanExample</artifactId>
+	<artifactId>SpringBootFileUploadDownloadExample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootFileUploadDownloanExample</name>
+	<name>SpringBootFileUploadDownloadExample</name>
 	<description>Demo project for Spring Boot File Upload and Download example</description>
 
 	<properties>
